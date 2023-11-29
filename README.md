@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adikusum4
+- 👋 Hi, I’m Adi Kusuma
 - 👀 I’m interested in research and programming
 - 🌱 I’m currently learning data analyst and data scientist
 - 💞️ I’m looking for remote work
