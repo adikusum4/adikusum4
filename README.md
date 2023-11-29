@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adi Kusuma
-- 👀 I’m interested in research and programming
+- 👀 I’m interested in research and coding
 - 🌱 I’m currently learning data analyst and data scientist
 - 💞️ I’m looking for remote work
 - 📫 How to reach me xian.adikusuma@gmail.com [LinkedIn](https://www.linkedin.com/in/adikusum4/)
